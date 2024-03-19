@@ -64,10 +64,6 @@
 
 <br>
 <br> 
-<br>
-<br>
-<br>
-<br> 
 
 
 <h2 align="left"> Estudando no momento: </h2>
@@ -90,4 +86,5 @@
 <p align="centre"><b>Contador de visitantes</b></p> 
   
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJoaoVitorPereira-lab&s=40&c=ff0000&bg=00000000&no=7&ff=digi&tb=Visitantes%3A+&ta=" alt="visits">
+
 <br>
