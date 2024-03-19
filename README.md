@@ -67,10 +67,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <h2 align="left"> Estudando no momento: </h2>
 
