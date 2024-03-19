@@ -46,19 +46,19 @@
 
 ### Principais skills:
 <div align="left"> 
-<img align="left" height="44" width="44" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/be2afe8a-9ffa-4d10-a110-894fc8a16bca">
+<img  height="44" width="44" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/be2afe8a-9ffa-4d10-a110-894fc8a16bca">
 
-<img align="left" height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/281ba40c-f979-4378-8ace-7de88626b063">
+<img  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/281ba40c-f979-4378-8ace-7de88626b063">
 
-<img align="left"  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/63e9e06f-a7a1-432a-9c80-75d1b1be8587">
+<img   height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/63e9e06f-a7a1-432a-9c80-75d1b1be8587">
 
-<img align="left"  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/ea0bb69f-02c2-4378-9230-85b7937845ee">
+<img  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/ea0bb69f-02c2-4378-9230-85b7937845ee">
 
-<img align="left"  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/b5e57e89-76d1-4080-b1fa-ad8408536df8">
+<img height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/b5e57e89-76d1-4080-b1fa-ad8408536df8">
 
-<img align="left"  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/9b6b6b16-c673-4053-934a-a543e2388896">
+<img height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/9b6b6b16-c673-4053-934a-a543e2388896">
 
-<img align="left"  height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/0818aea7-7eb5-4b64-8a2d-c48602434c9f">
+<img   height="40" width="40" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/0818aea7-7eb5-4b64-8a2d-c48602434c9f">
 
 </div>
 
