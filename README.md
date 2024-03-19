@@ -12,21 +12,21 @@
 
 <div align="center"> 
 <a href="https://instagram.com/jv_souzx7" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/5c4c0027-0345-46f6-a63b-35ce5dbdba2c">
 </a>
 
 <a href="https://joaovitorps.vercel.app/" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/aa8b59be-fe9c-4a3b-99ba-a73643ca0d25">
+<img align="center" height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/b6decc39-5eed-4d86-857e-ca4546052b6e">
 </a>
 
 
 <a href="mailto:joaovitor.ps1711@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/4a9c607d-5e58-4dfe-a74f-4c78d3e9b966">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/joao-vitor-pereira-souza/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/17a16feb-627c-4e98-a01d-fb46d4d361d9">
 </a>
 
 </div>
