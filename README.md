@@ -1,3 +1,5 @@
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Tenho+18+anos;Sou+um+Programador+J%C3%BAnior;Seja+bem-vindo%3A)](https://git.io/typing-svg)
 
 <br>
@@ -9,6 +11,8 @@
 
 </div>
 
+<br>
+<br>
 
 <div align="center"> 
 <a href="https://instagram.com/jv_souzx7" target="_blank">
@@ -31,30 +35,30 @@
 
 </div>
 
+<br>
+<br>
+
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/JoaoVitorPereira-lab?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=blue&widget_size=medium&dark=true) 
 
 </div>
 
-
-### Main skills:
+### Principais skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/be2afe8a-9ffa-4d10-a110-894fc8a16bca">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img align="left" height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/281ba40c-f979-4378-8ace-7de88626b063">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/63e9e06f-a7a1-432a-9c80-75d1b1be8587">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/ea0bb69f-02c2-4378-9230-85b7937845ee">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/b5e57e89-76d1-4080-b1fa-ad8408536df8">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/9b6b6b16-c673-4053-934a-a543e2388896">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/0818aea7-7eb5-4b64-8a2d-c48602434c9f">
 
 </div>
 
@@ -66,20 +70,12 @@
 <br> 
 
 
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="left"> Estudando no momento: </h2>
 
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/8c2fbe0f-7007-457b-8554-06eabb0d8150">
 
 </div>
 
@@ -91,22 +87,7 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="centre"><b>Contador de visitantes</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJoaoVitorPereira-lab&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
-</div>
-
-
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
-
-<br>
-<br> 
-
-
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
