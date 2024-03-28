@@ -70,12 +70,30 @@
 
 <h2 align="left"> Estudando no momento: </h2>
 
+<div align="left"> 
+
+<img align="left"  height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab/assets/87669543/6624bc55-744e-41af-80b2-91cd274719d5">
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="left"> Planejando estudar: </h2>
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/8c2fbe0f-7007-457b-8554-06eabb0d8150">
+<img align="left"  height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab/assets/87669543/cad20c57-8f0a-463a-8f78-4bb378e9773c">
+
+<img align="left"  height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab/assets/87669543/a56e356e-4054-4320-9fa9-8597e87388a1">
+
+<img align="left"  height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/8c2fbe0f-7007-457b-8554-06eabb0d8150">
 
 </div>
+
 
 
 <div align="center">
