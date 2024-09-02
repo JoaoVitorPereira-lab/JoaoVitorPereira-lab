@@ -38,12 +38,6 @@
 <br>
 <br>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/JoaoVitorPereira-lab?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=3&animation_loop=true&format=svg&weeks=30&theme=blue&widget_size=small&dark=true) 
-
-</div>
-
 ### Principais skills:
 <div align="left"> 
 <img align="left" height="64" width="64" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/be2afe8a-9ffa-4d10-a110-894fc8a16bca">
@@ -59,6 +53,22 @@
 <img align="left" height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/9b6b6b16-c673-4053-934a-a543e2388896">
 
 <img align="left" height="60" width="60" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/0818aea7-7eb5-4b64-8a2d-c48602434c9f">
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Estou Aperfeiçoando:
+<div align="left"> 
+<img align="left" height="64" width="64" src="https://github.com/user-attachments/assets/9a376de8-7e8b-400c-b17b-088b0097a62f">
+
+<img align="left" height="60" width="60" src="https://github.com/user-attachments/assets/42d3ae77-39c8-45ea-8ee4-da3b990e5126">
+
+<img align="left" height="60" width="60" src="https://github.com/user-attachments/assets/2538290b-9171-4012-a2e9-879f5aa46492">
 
 </div>
 
