@@ -5,15 +5,6 @@
 <br>
 <br>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVitorPereira-lab&theme=youtube-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=800)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-<br>
-
 <div align="center"> 
 <a href="https://instagram.com/jv_souzx7" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/JoaoVitorPereira-lab/JoaoVitorPereira-lab2/assets/87669543/5c4c0027-0345-46f6-a63b-35ce5dbdba2c">
